@@ -8,6 +8,7 @@ This fork has the following features:
 * Support for a WSDL base directory to deal with relative pathnames in import/include stanzas
 * Somewhat saner traceing/logging (traces now go to log.debug(), which you can handle per module)
 * Somewhat more readable logic (by removing a bunch of helpers to a separate file)
+* (Djiit) Partial support for Python3.4
 
 
 Testing
